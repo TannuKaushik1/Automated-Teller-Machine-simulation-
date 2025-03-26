@@ -62,5 +62,5 @@ This project is licensed under the MIT License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
-For questions or suggestions, feel free to reach out to `your.email@example.com` or open an issue on GitHub.
+For questions or suggestions, feel free to reach out to `tannukaushik1503@gmail.com` or open an issue on GitHub.
 
